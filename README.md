@@ -6,15 +6,43 @@
 
 ---
 
-## Technical Skill Stack
+## 🛠️ Technical Skill Stack
 
-| Category | Competencies & Tools |
-| :--- | :--- |
-| **Circuit Design & Logic** | Digital Logic Design, Sequential State Machines, Circuit Analysis (AC/DC), VHDL, NI Multisim, Quartus II |
-| **Embedded & Microcontrollers** | Arduino Uno (C++ / C), Register-Level GPIO, 7400-Series TTL ICs, FPGA Development Boards, PWM Signaling |
-| **CAD & Fabrication** | Autodesk Inventor (Parametric Modeling & Assemblies), FDM 3D Printing (Ultimaker Cura, TPU/PLA Slicing), Soldering, Breadboarding |
-| **Lab Equipment & Testing** | Digital Multimeters (DMM), Oscilloscopes, Function Generators, Digital Logic Probes, Hardware-in-the-Loop (HIL) |
-| **Software & Scripting** | Python (CLI Apps, File I/O), C/C++, Git / GitHub, Markdown |
+> ### ⚡ Circuit Design, Logic & Simulation
+> ![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=vhdl&logoColor=white)
+> ![Multisim](https://img.shields.io/badge/NI%20Multisim-004B87?style=for-the-badge&logo=nationalinstruments&logoColor=white)
+> ![Quartus II](https://img.shields.io/badge/Quartus%20II-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+> ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+> 
+> `Digital Logic Design` `Sequential State Machines` `AC/DC Circuit Analysis` `SPICE Simulation`
+
+> ### 🔌 Embedded Systems & Microcontrollers
+> ![Arduino](https://img.shields.io/badge/Arduino%20Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+> ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+> ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+> 
+> `Register-Level GPIO` `7400-Series TTL ICs` `FPGA Dev Boards` `PWM Control` `HIL Testing`
+
+> ### 📐 CAD, Modeling & Rapid Prototyping
+> ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+> ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+> ![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-11A9E1?style=for-the-badge&logo=ultimaker&logoColor=white)
+> 
+> `FDM 3D Printing (PLA/TPU)` `PCB Track Layout` `Precision Soldering` `Breadboarding`
+
+> ### 🔬 Lab Equipment & Hardware Validation
+> ![Oscilloscope](https://img.shields.io/badge/Oscilloscopes-FF6600?style=for-the-badge&logo=testinglibrary&logoColor=white)
+> ![Multimeter](https://img.shields.io/badge/Digital%20Multimeters-008080?style=for-the-badge&logo=measuring&logoColor=white)
+> 
+> `Function Generators` `Digital Logic Probes` `Signal Verification` `Hardware Debugging`
+
+> ### 💻 Programming, Tools & Version Control
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+> ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+> 
+> `CLI Applications` `File I/O Operations` `Version Control`
 
 ---
 
