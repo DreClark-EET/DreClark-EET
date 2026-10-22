@@ -8,41 +8,30 @@
 
 ## 🛠️ Technical Skill Stack
 
-> ### ⚡ Circuit Design, Logic & Simulation
-> ![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=vhdl&logoColor=white)
-> ![Multisim](https://img.shields.io/badge/NI%20Multisim-004B87?style=for-the-badge&logo=nationalinstruments&logoColor=white)
-> ![Quartus II](https://img.shields.io/badge/Quartus%20II-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-> ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
-> 
-> `Digital Logic Design` `Sequential State Machines` `AC/DC Circuit Analysis` `SPICE Simulation`
-
-> ### 🔌 Embedded Systems & Microcontrollers
-> ![Arduino](https://img.shields.io/badge/Arduino%20Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-> ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+> ### ⚡ Circuit Design, Embedded Systems & Software
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 > ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+> ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+> ![Multisim](https://img.shields.io/badge/NI%20Multisim-004B87?style=for-the-badge&logo=nationalinstruments&logoColor=white)
+> ![Arduino](https://img.shields.io/badge/Arduino%20Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+> ![Quartus II](https://img.shields.io/badge/Quartus%20II-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 > 
-> `Register-Level GPIO` `7400-Series TTL ICs` `FPGA Dev Boards` `PWM Control` `HIL Testing`
-
-> ### 📐 CAD, Modeling & Rapid Prototyping
-> ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-> ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-> ![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-11A9E1?style=for-the-badge&logo=ultimaker&logoColor=white)
-> 
-> `FDM 3D Printing (PLA/TPU)` `PCB Track Layout` `Precision Soldering` `Breadboarding`
+> `Digital Logic Design` `AC/DC Circuit Analysis` `7400-Series TTL ICs` `Register-Level GPIO` `CLI Apps & File I/O`
 
 > ### 🔬 Lab Equipment & Hardware Validation
 > ![Oscilloscope](https://img.shields.io/badge/Oscilloscopes-FF6600?style=for-the-badge&logo=testinglibrary&logoColor=white)
 > ![Multimeter](https://img.shields.io/badge/Digital%20Multimeters-008080?style=for-the-badge&logo=measuring&logoColor=white)
+> ![Bench Power](https://img.shields.io/badge/DC%20Power%20Supplies-008080?style=for-the-badge&logo=energy&logoColor=white)
 > 
-> `Function Generators` `Digital Logic Probes` `Signal Verification` `Hardware Debugging`
+> `Function Generators` `Digital Logic Probes` `Circuit Troubleshooting`
 
-> ### 💻 Programming, Tools & Version Control
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-> ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+> ### 📐 CAD Modeling & Rapid Prototyping
+> ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+> ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+> ![Ultimaker Cura](https://img.shields.io/badge/Ultimaker%20Cura-11A9E1?style=for-the-badge&logo=ultimaker&logoColor=white)
 > 
-> `CLI Applications` `File I/O Operations` `Version Control`
+> `FDM 3D Printing` `Soldering` `Breadboard Assembly` `Parametric Modeling`
+
 
 ---
 
