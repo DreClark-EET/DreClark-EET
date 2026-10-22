@@ -39,19 +39,10 @@
 
 ### 🦾 [Bio-Mimetic Prosthetic Hand](https://github.com/DreClark-EET/prosthetic-hand-series)
 > **Tech Stack:** *Autodesk Inventor, Ultimaker Cura, Arduino Uno, C++, SG90 / MG996R Servos, Tendon Actuation*  
-- **Overview:** Leading an ongoing 5-stage R&D pipeline to transform a low-cost mechanical proof-of-concept into a self-powered medical device prototype.
-- **Parametric CAD Design:** Modeled human finger joint constraints in Autodesk Inventor to optimize range of motion, assembly clearances, and bio-mimetic pre-curves to prevent joint binding.
-- **Embedded Firmware:** Programmed Arduino microcontrollers in C++, utilizing internal `INPUT_PULLUP` configurations to eliminate floating pin state errors and cleanly process button matrix logic.
-- **Mechanical Innovation:** Decoupled wrist rotation from finger tension by engineering a centralized through-hole routing manifold concentric with the wrist axis.
-- **Current Development:** Transitioning to high-torque metal-geared MG996R servos, braided tensile lines, and planning future analog EMG sensor integration.
 
 ### 🚥 [Digital Drag-Race Timing System](https://github.com/DreClark-EET/drag-race-timing-system)
-> **Tech Stack:** *Digital Logic, NI Multisim, 7476 JK Flip-Flops, 7493 Counters, 7447 BCD Decoders, 555 Timer IC, 7400 TTL Gates*  
-- **Overview:** Designed, simulated, and physically breadboarded a complete digital logic timing circuit replicating a drag strip's sequential "Christmas Tree" light and timer system.
-- **Clock Generation & State Control:** Configured a 555 timer IC in astable mode for a precise 10Hz square-wave clock, driving a synchronous state machine via 7476 JK flip-flops for the Red-Yellow-Green sequence.
-- **Logic Interlocks & Counters:** Implemented an AND-gate logic matrix (74LS08) as a safety interlock to hold binary counters at zero until the final green light state, feeding 7493 counters and 7447 drivers for dual 7-segment display output.
-- **System Debugging & Validation:** Utilized digital logic probes to troubleshoot node placement on reset capacitors and isolate internal gate damage in 7400-series IC packages during physical breadboarding.
-
+> **Tech Stack:** *Digital Logic, NI Multisim, 7476 JK Flip-Flops, 7493 Counters, 7447 BCD Decoders, 555 Timer IC, 7400 TTL Gates*
+> 
 ---
 
 ## 📅 Upcoming Engineering Projects
