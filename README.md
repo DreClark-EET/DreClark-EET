@@ -2,7 +2,7 @@
 
 **Electrical Engineering Technology (EET) Student @ Purdue University Fort Wayne**  
 *GPA: 3.96 (Dean's List & Honors List) | Expected Graduation: May 2029*  
-*Focus Areas: Hardware Validation, Embedded Systems, Digital Logic Design, and Rapid Prototyping.*
+*Focus Areas: Hardware Validation, Embedded Systems, Digital & Electrical Design, and Rapid Prototyping.*
 
 ---
 
