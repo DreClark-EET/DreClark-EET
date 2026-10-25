@@ -49,7 +49,7 @@
 
 ### CMoy Analog Headphone Amplifier
 > **Tech Stack:** *KiCad, NE5532 Op-Amps, TLE2426 Rail Splitter, PCB Design & Analog Circuitry*
-- Capturing a custom schematic in KiCad for a portable 9V-powered analog headphone amplifier engineered to drive 32Ω low-impedance headphones cleanly.
+- designing a custom schematic in KiCad for a portable 9V-powered analog headphone amplifier engineered to drive 32Ω low-impedance headphones cleanly.
 - Features dual NE5532 op-amp gain stages (~5.5x voltage gain), 1.0µF DC-blocking input capacitors, and a TLE2426 active rail-splitter delivering a stable +4.5V virtual ground.
 - Optimized with a 10Ω ground isolation resistor and dual 220µF power-rail capacitors to handle heavy bass transients without voltage sag or clipping prior to custom PCB track layout.
 
