@@ -45,7 +45,7 @@
 > 
 ---
 
-## Upcoming Engineering Projects
+## Upcoming/Current Engineering Projects
 
 ### CMoy Analog Headphone Amplifier
 > **Tech Stack:** *KiCad, NE5532 Op-Amps, TLE2426 Rail Splitter, PCB Design & Analog Circuitry*
