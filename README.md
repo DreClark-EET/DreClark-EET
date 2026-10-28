@@ -37,7 +37,7 @@
 
 ## Featured Engineering Projects
 
-### [Bio-Mimetic Prosthetic Hand](https://github.com/DreClark-EET/prosthetic-hand-series)
+### [Bio-Mimetic Prosthetic Arm](https://github.com/DreClark-EET/prosthetic-hand-series)
 > **Tech Stack:** *Autodesk Inventor, Ultimaker Cura, Arduino Uno, C++, SG90 / MG996R Servos, Tendon Actuation*  
 
 ### [Digital Drag-Race Timing System](https://github.com/DreClark-EET/drag-race-timing-system)
